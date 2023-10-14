@@ -1,1 +1,1 @@
-# react_ts_template
+# react_js_template
