@@ -1,6 +1,5 @@
-import React from "react";
-import { BaseLayout } from '../BaseLayout/BaseLayout.tsx';
-import { Switches } from "./Switches.js";
+import { BaseLayout } from '../BaseLayout/BaseLayout';
+import { Switches } from "./Switches";
 
 export const App = () => {
   return (

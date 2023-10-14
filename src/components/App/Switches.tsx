@@ -1,7 +1,6 @@
-import React from "react";
 import { Route, Routes } from "react-router-dom";
-import { Greetings } from "../../Shared/Greetings/Greetings.tsx";
-import { Button } from "../../Shared/Button/Button.tsx";
+import { Greetings } from "../../Shared/Greetings/Greetings";
+import { Button } from "../../Shared/Button/Button";
 
 export const Switches = () => {
   return (
